@@ -4,12 +4,15 @@ const fs = require('fs');
 
 const client = new Discord.Client();
 const config = require('./config.json');
+const channelsF = require('./channels.json')
 
 client.config = config;
+client.channelsFile = channelsF;
 
 client.xp = new Enmap({name: 'xp'})
 client.giveaway = new Enmap({name: 'giveaway'})
 client.giveawayData = new Enmap({name: 'giveawayData'})
+
 
 fs.readdir('./level/', (err, files) => {
   if (err) return console.error(err);
