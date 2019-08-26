@@ -12,7 +12,9 @@ client.channelsFile = channelsF;
 client.xp = new Enmap({name: 'xp'})
 client.giveaway = new Enmap({name: 'giveaway'})
 client.giveawayData = new Enmap({name: 'giveawayData'})
-
+client.factions = new Enmap({name: 'factions'})
+client.sanctions = new Enmap({name: 'sanctions'})
+client.automodSpam = new Enmap({name: 'automodSpam'})
 
 fs.readdir('./level/', (err, files) => {
   if (err) return console.error(err);

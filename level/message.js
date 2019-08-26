@@ -21,7 +21,7 @@ module.exports = (client, message) => {
     const curLevel = Math.floor(0.1 * Math.sqrt(client.xp.get(key, 'xp')));
     if (client.xp.get(key, 'level') < curLevel) {
       client.xp.set(key, curLevel, 'level');
-      client.channels.find(c => c.id === client.channelsFile.salonbot).send(message.author + ' est passer au niveau: ' + curLevel + ' !')
+      message.channel.send(message.author + ' est passer au niveau: ' + curLevel + ' !')
     }
   }
 

@@ -1,0 +1,106 @@
+[
+	{
+		"question": "Quel est le deuxième minerais le plus rare de paladium?",
+		"answers": ["findium", "le findium"]
+	},
+	{
+		"question": "Qui est le youtuber principal de Paladium?",
+		"answers": ["fuze", "fuzeiii", "fuze3", "fuze iii", "fuze 3"]
+	}, 
+	{
+	   "question": "En quel année Paladium a t-il ouvert ses portes?",
+	   "answers": ["2015", "deux mille quinze"]
+	}, 
+	{
+	   "question": "Combien il y a t-il de serveurs minage sur Paladium?",
+	   "answers": ["12", "douze"]
+	}, 
+	{
+	   "question": "Comment s'apelle le serveur d'on le spawn est un arbre?",
+	   "answers": ["forestia"]
+	},
+	{
+	   "question": "Comment s'apelle le serveur d'on le spawn est un Volcan?",
+	   "answers": ["volcania"]
+	},
+	{
+	   "question": "Combien il y a t-il d'administrateur sur Paladium?",
+	   "answers": ["5", "cinq"]
+	},
+	{
+	   "question": "Quel est l'age minimum pour rentrer dans le staff de Paladium?",
+	   "answers": ["16 ans", "16", "seize ans", "seize"]
+	},
+	{
+	   "question": "Combien il y a t-il de minerais moddés sur Paladium?",
+	   "answers": ["5", "5"]
+	}, 
+	{
+	   "question": "Quel est le prix exacte d'un grade Titan sur Paladium?",
+	   "answers": ["19,99", "19,99€"]
+	},
+	{
+	   "question": "Combien de chunk l'unclaim finder orange couvre t-il?",
+	   "answers": ["4", "quatre"]
+	},
+	{
+	   "question": "Combien de chunk l'unclaim finder vert couvre t-il?",
+	   "answers": ["un", "1"]
+	},
+	{
+	   "question": "Combien de chunk l'unclaim finder rouge couvre t-il?",
+	   "answers": ["9", "neuf"]
+	},
+	{
+	   "question": "Quel est le prix exacte d'un grade Paladin?",
+	   "answers": ["24,99", "24,99€"]
+	},
+	{
+	   "question": "Comment s'apeller l'equivalent du grade Paladin en V5 et V5.5?",
+	   "answers": ["le templier", "le grade templier", "templier"]
+	},
+	{
+	   "question": "Quel est le nom de l'eau qui fait des dégats?",
+	   "answers": ["sulfuric", "sulfuric water"]
+	},
+	{
+	   "question": "Quel est le minerais le plus rare de Paladium?",
+	   "answers": ["le paladium vert", "le pala vert", "pala vert", "paladium vert"]
+	},
+	{
+	   "question": "Quel est le troisième minerais le plus rare de Paladium?",
+	   "answers": ["le paladium", "paladium", "le pala", "pala"]
+	},
+	{
+	   "question": "Quel est le quatrième minerais le plus rare de Paladium?",
+	   "answers": ["le titane", "titane"]
+	},
+	{
+	   "question": "Quel est le minerais le moins rare de Paladium?",
+	   "answers": ["l'amethyste", "l'améthyste", "amethyste", "améthyste"]
+	}, 
+	{
+	   "question": "Quel machine est utiliser pour craft les unclaim finder?",
+	   "answers": ["la pala machine", "la paladium machine", "pala machine", "paladium machine"]
+	},
+	{
+	   "question": "Quel machine est utiliser pour craft les sticks?",
+	   "answers": ["le grinder", "grinder"]
+	},
+	{
+	   "question": "Quel plante est donner par la pousse d'amethyste?",
+	   "answers": ["l'eggplant", "eggplant"]
+	},
+	{
+	   "question": "Quel plante est donner par la pouse de Titane?",
+	   "answers": ["chervil", "le chervil"]
+	},
+	{
+	   "question": "Quel plante est donner par la pousse de Paladium?",
+	   "answers": ["le kiwano", "kiwano"]
+	},
+	{
+	   "question": "Comment s'apelle l'eau qui soigne?",
+	   "answers": ["l'angelic", "angelic", "angelic water", "l'angelic water"]
+	}
+]
